@@ -22,13 +22,14 @@ Feel free to ask about maintainership in [Telegram](https://t.me/ProtonPlusChat)
 
 ### Credits
 
-- ProtonAOSP  
-- LineageOS  
-- PixelExperience 
-- Styx Project  
-- conquerOS  
-- VoltageOS 
-- ArrowOS
+- [ProtonAOSP](https://github.com/protonaosp) 
+- [LineageOS](https://github.com/lineageos) 
+- [PixelExperience](https://github.com/pixelexperience) 
+- [StyxProject](https://github.com/styxproject)
+- [conquerOS](https://github.com/conqueros)
+- [VoltageOS](https://github.com/voltageos)
+- [ArrowOS](https://github.com/arrowos)
+- And the list never ends.
 
 ### ありがとう
 
