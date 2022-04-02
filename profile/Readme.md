@@ -18,7 +18,7 @@ To get started, you're gonna have to check the following repositories:
 
 - [Telegram](https://t.me/ProtonPlusChat)
 
-Feel free to ask about maintainership in [Telegram](https://t.me/ProtonPlusChat) 
+If you are interested to maintain ProtonPlus for your device see [Maintainership](https://github.com/protonplus-org/docs/tree/master/maintainership)
 
 ### Credits
 
