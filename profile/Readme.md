@@ -6,6 +6,7 @@ Welcome to Proton+
 
 Proton+ is a fork of ProtonAOSP that aims to bring you a rom that takes the minimalism and speed of ProtonAOSP and provide some nifty extra features that enhance your daily driving experience. It's stock, it's simple and it has everything necessary right out of the box.
 
+[![Total ProtonPlus Downloaded ](https://img.shields.io/sourceforge/dt/protonplus?&label=Downloads&color=critical&style=flat-square)](https://sourceforge.net/projects/protonplus/files/latest/download)  [![Total ProtonPlus Downloaded per Month](https://img.shields.io/sourceforge/dm/protonplus?&label=Downloads&color=critical&style=flat-square)](https://sourceforge.net/projects/protonplus/files/latest/download)
 
 ### Get started 
 
