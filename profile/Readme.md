@@ -6,8 +6,6 @@ Welcome to ProtonPlus
 
 Functionally Minimalistic!  ProtonPlus is a Custom After Market OS based on AOSP with enhancements tweaks from ProtonAOSP and some nifty little Quality of Life features to enhance your daily driving experience.
 
-[![Total ProtonPlus Downloaded ](https://img.shields.io/sourceforge/dt/protonplus?&label=Downloads&color=critical&style=flat-square)](https://sourceforge.net/projects/protonplus/files/latest/download)  [![Total ProtonPlus Downloaded per Month](https://img.shields.io/sourceforge/dm/protonplus?&label=Downloads&color=critical&style=flat-square)](https://sourceforge.net/projects/protonplus/files/latest/download)
-
 ### Get started 
 
 To get started, you're gonna have to check the following repositories:
