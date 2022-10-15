@@ -2,11 +2,13 @@
 
 ![banner](https://raw.githubusercontent.com/protonplus-org/.github/master/profile/banner.png)
 
-Welcome to ProtonPlus 
+Welcome to ProtonPlus
 
-Functionally Minimalistic!  ProtonPlus is a Custom After Market OS based on AOSP with enhancements tweaks from ProtonAOSP and some nifty little Quality of Life features to enhance your daily driving experience.
+Functionally Minimalistic! ProtonPlus is a Custom After Market OS based on AOSP with enhancements tweaks from ProtonAOSP and some nifty little Quality of Life features to enhance your daily driving experience.
 
-### Get started 
+[![Total ProtonPlus Downloaded ](https://img.shields.io/github/downloads/protonplus-org/ota/total?&label=Downloads&color=critical&style=flat-square)]()
+
+### Get started
 
 To get started, you're gonna have to check the following repositories:
 
@@ -21,14 +23,14 @@ If you are interested to maintain ProtonPlus for your device see [Maintainership
 
 ### Credits
 
-- [ProtonAOSP](https://github.com/protonaosp) 
-- [LineageOS](https://github.com/lineageos) 
-- [PixelExperience](https://github.com/pixelexperience) 
+- [ProtonAOSP](https://github.com/protonaosp)
+- [LineageOS](https://github.com/lineageos)
+- [PixelExperience](https://github.com/pixelexperience)
 - [StyxProject](https://github.com/styxproject)
 - [conquerOS](https://github.com/conqueros)
 - [VoltageOS](https://github.com/voltageos)
 - [ArrowOS](https://github.com/arrowos)
-- And the list never ends.
+
+And the list never ends.
 
 ### ありがとう
-
